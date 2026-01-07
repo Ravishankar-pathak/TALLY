@@ -29,8 +29,8 @@ class TallyLedgerViewer:
         self.db_config = {
             'host': 'localhost',
             'database': 'tall_ydata',
-            'user': 'postgres',
-            'password': 'mypassword'
+            'user': '',
+            'password': ''
         }
         
         # — Tally Connection Input —
